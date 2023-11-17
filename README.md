@@ -3,6 +3,7 @@
 
 modul bindo : 
 https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin/
+
 modul eng : 
 https://polinema.gitbook.io/jti-machine-learning-module/
 
